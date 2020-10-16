@@ -121,7 +121,7 @@ ul ol {
 }
 
 dt {
-  font-weight: 700;
+  font-weight: 650;
 }
 
 dd {
@@ -139,7 +139,7 @@ strong {
 }
 
 small {
-  font-size: 80%;
+  font-size: 75%;
 }
 
 sub,
@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #824038;
   text-decoration: underline;
 }
 
